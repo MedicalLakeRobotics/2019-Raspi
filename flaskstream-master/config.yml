@@ -1,0 +1,14 @@
+cameras:
+  front:
+    serial: "4B43D26F"
+  rear:
+    serial: "E36DD36F"
+camera_view:
+  width: 640
+  height: 480
+  fps: 20
+  frame_lag: 0.02
+  jpeg_quality: 30
+  udp_inbound_command_port: 5800
+  udp_outbound_host: "10.45.13.2"
+  udp_outbound_port: 5801
